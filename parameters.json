@@ -1,0 +1,7 @@
+{
+  "authority": "",
+  "client_id": "",
+  "scope": [ "https://graph.microsoft.com/.default" ],
+  "secret": "",
+  "endpoint": "https://graph.microsoft.com/v1.0/users"
+}
